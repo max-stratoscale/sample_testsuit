@@ -4,7 +4,7 @@ describe("Hello world", function () {
   beforeEach(function () {
     hw = new HelloWorld();
   });
-  it("Should have nuts", function () {
+  it("Should echo HelloWorld", function () {
     expect(hw.echo())
       .toBe('HelloWorld');
   });
