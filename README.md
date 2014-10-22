@@ -1,12 +1,18 @@
 #Sample testsuit
 
 To run server
-  npm start
+```
+npm start
+```
 
 
 To run unit tests
-   npm test
+```
+npm test
+```
 
 To run e2e tests
-  npm run protractor
+```
+npm run protractor
+```
 
